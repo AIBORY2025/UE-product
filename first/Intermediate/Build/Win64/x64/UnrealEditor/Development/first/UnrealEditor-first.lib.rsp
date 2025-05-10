@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-first.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\WKJ_GAMEPRODUCT\UE-product\first\Intermediate\Build\Win64\x64\firstEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\WKJ_GAMEPRODUCT\UE-product\first\Intermediate\Build\Win64\x64\UnrealEditor\Development\first\first.cpp.obj"
+"C:\WKJ_GAMEPRODUCT\UE-product\first\Intermediate\Build\Win64\x64\UnrealEditor\Development\first\PerModuleInline.gen.cpp.obj"
+"C:\WKJ_GAMEPRODUCT\UE-product\first\Intermediate\Build\Win64\x64\UnrealEditor\Development\first\Default.rc2.res"
+/OUT:"C:\WKJ_GAMEPRODUCT\UE-product\first\Intermediate\Build\Win64\x64\UnrealEditor\Development\first\UnrealEditor-first.lib"

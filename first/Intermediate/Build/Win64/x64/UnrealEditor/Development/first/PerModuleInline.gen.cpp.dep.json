@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\wkj_gameproduct\\ue-product\\first\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\first\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\wkj_gameproduct\\ue-product\\first\\intermediate\\build\\win64\\x64\\firsteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\wkj_gameproduct\\ue-product\\first\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\first\\definitions.first.h",
+            "c:\\users\\epic engine\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
